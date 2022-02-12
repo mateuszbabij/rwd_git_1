@@ -14,6 +14,7 @@ body {
   width: 400px;
   height: 200px;
   border: 5px solid blue;
+  margin: auto;
 }
 
 /* media queries rules */
@@ -52,7 +53,6 @@ body {
   }
   .box {
     width: 80%;
-    margin: auto;
   }
 }
 
