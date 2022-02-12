@@ -52,3 +52,15 @@ p {
     margin: auto;
   }
 }
+
+@media all and (min-width: 992px) {
+  .box {
+    width: 70%;
+    border: 5px solid brown;
+    background-color: grey;
+  }
+  .shortText,
+  .longText {
+    text-align: left;
+  }
+}
